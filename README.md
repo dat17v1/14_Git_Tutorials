@@ -1,1 +1,1 @@
-# GitTypicalUseCases
+# Git - Typical Use Cases

@@ -1,4 +1,4 @@
-# Cloning a repository
+# Case 0.5: Cloning a repository
 
 *Adding a second (or third or …) programmer to the project*
 

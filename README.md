@@ -9,5 +9,6 @@
 1. [Using Branches](branches.md)
 1. [Going back to a previous commit](previous_commit.md)
 1. [Accidently committed files to your repository](accidently.md)
-1. [Fork a repository & create a pull request](pull_request.md)
+1. [Fork a repository](fork.md) 
+1. [Create a pull request](pull_request.md)
 1. [For Teachers - (_How to use this in teachings_)](teachers.md)

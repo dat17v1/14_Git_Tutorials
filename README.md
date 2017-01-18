@@ -8,4 +8,4 @@
 1. [Using Branches](branches.md)
 1. [Going back to a previous commit](previous_commit.md)
 1. [Accidently committed files to your repository]()
-1. [For Teachers - How to use this in teachings]()
+1. [For Teachers - (_How to use this in teachings_)](teachers.md)

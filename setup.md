@@ -54,6 +54,7 @@ In this example our .gitignore file looks like the following:
 </td>
 </tr>
 </table>
+## Set up a remote repository
 
 Next, we set up a remote repository. In this case we use bitbucket.org but you could also use github or other services.
 Register as a user at bitbucket.org. All team members must create an account.

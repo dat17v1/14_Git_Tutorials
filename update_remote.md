@@ -10,11 +10,11 @@ origin	https://github.com/dat17v1/01_introduction.git (push)
 ````   
 in this case the name is 'origin'    
 
-1. Change your remote's with the git remote set-url command.  
+3. Change your remote's with the git remote set-url command.  
 ````   
 $ git remote set-url origin https://bitbucket.com/dat17v1/01_introduction.git    
 ````   
-1. Verify that the remote URL has changed.    
+4. Verify that the remote URL has changed.    
 ````   
 git remote -v
 # Verify new remote URL

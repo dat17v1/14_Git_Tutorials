@@ -1,4 +1,4 @@
-# Rename a Remote repository URL
+# Rename a remote repositorys URL
 
 
 Open Terminal.

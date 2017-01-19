@@ -11,5 +11,5 @@
 1. [Accidently committed files to your repository](accidently.md)
 1. [Fork a repository](fork.md) 
 1. [Create a pull request](pull_request.md)
-1. [Rename a remote repositorys URL]()
+1. [Rename a remote repositorys URL](update_remote.md)
 1. [For Teachers - (_How to use this in teachings_)](teachers.md)

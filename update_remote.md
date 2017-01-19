@@ -21,3 +21,5 @@ git remote -v
 origin  https://bitbucket.com/dat17v1/01_introduction.git (fetch)
 origin  https://bitbucket.com/dat17v1/01_introduction.git (push)    
 ````   
+
+_edited from https://help.github.com/articles/changing-a-remote-s-url/ _

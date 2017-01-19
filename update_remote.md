@@ -22,4 +22,4 @@ origin  https://bitbucket.com/dat17v1/01_introduction.git (fetch)
 origin  https://bitbucket.com/dat17v1/01_introduction.git (push)    
 ````   
 
-_ edited from https://help.github.com/articles/changing-a-remote-s-url/ _
+_edited from https://help.github.com/articles/changing-a-remote-s-url/_
